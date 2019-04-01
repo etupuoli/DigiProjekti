@@ -1,3 +1,3 @@
-# DigiProjekti
+# DigiProjekti/docs
 Student project
 juuh elikkäs
