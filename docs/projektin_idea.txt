@@ -1,1 +1,2 @@
+Perimmäinen ideahan on tehdä reaaliaikainen palautejärjestelmä Haaga-Helialle. Palvelu, jossa voidaan syöttää palautetta reaaliaikaisesti, jokaista tuntia kohden.
 
