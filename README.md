@@ -1,5 +1,7 @@
 # DigiProjekti
 Student project
-juuh elikkäs
 
-Kyllä projektin tynkää. Anton (Moderator luoja)
+Product Owner: Juhani Mononen
+Product buyer: Haaga-Helia
+
+Automatic Feedback Survey System
